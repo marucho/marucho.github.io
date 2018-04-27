@@ -1,4 +1,4 @@
-Indice
+<h1>Indice Practicas Bootstrap</h1>
 
 <a href="https://marucho.github.io/WEB/Practica1">Practica 1 Bootstrap</a>
 
