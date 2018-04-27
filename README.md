@@ -1,6 +1,6 @@
 Indice
 
-Practica 1 Bootstrap https://marucho.github.io/WEB/Practica1
+<a href="https://marucho.github.io/WEB/Practica1">Practica 1 Bootstrap</a>
 
 Practica 2 Bootstrap https://marucho.github.io/WEB/Practica2
 
