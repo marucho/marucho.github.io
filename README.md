@@ -1,7 +1,5 @@
 <h1>Indice Practicas Bootstrap</h1>
 
-<h3>Peregrina Paredes Diego Alonso</h3>
-
 <a href="https://marucho.github.io/WEB/Practica1">Practica 1 Bootstrap</a>
 
 <a href="https://marucho.github.io/WEB/Practica2">Practica 2 Bootstrap</a>
