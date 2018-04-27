@@ -17,4 +17,4 @@ Practica 7 Bootstrap https://marucho.github.io/WEB/Practica7
 Practica 8 Bootstrap https://marucho.github.io/WEB/Practica8
 
 
-Todas las practicas salen negraspor el bootswatch que baje :v
+Todas las practicas salen negras por el bootswatch que baje :v
