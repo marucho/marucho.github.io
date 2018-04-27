@@ -2,19 +2,19 @@ Indice
 
 <a href="https://marucho.github.io/WEB/Practica1">Practica 1 Bootstrap</a>
 
-Practica 2 Bootstrap https://marucho.github.io/WEB/Practica2
+<a href="https://marucho.github.io/WEB/Practica2">Practica 2 Bootstrap</a>
 
-Practica 3 Bootstrap https://marucho.github.io/WEB/Practica3
+<a href="https://marucho.github.io/WEB/Practica3">Practica 3 Bootstrap</a>
 
-Practica 4 Bootstrap https://marucho.github.io/WEB/Practica4
+<a href="https://marucho.github.io/WEB/Practica4">Practica 4 Bootstrap</a>
 
-Practica 5 Bootstrap https://marucho.github.io/WEB/Practica5
+<a href="https://marucho.github.io/WEB/Practica5">Practica 5 Bootstrap</a>
 
-practica 6 Bootstrap https://marucho.github.io/WEB/Practica6
+<a href="https://marucho.github.io/WEB/Practica6">Practica 6 Bootstrap</a>
 
-Practica 7 Bootstrap https://marucho.github.io/WEB/Practica7
+<a href="https://marucho.github.io/WEB/Practica7">Practica 7 Bootstrap</a>
 
-Practica 8 Bootstrap https://marucho.github.io/WEB/Practica8
+<a href="https://marucho.github.io/WEB/Practica8">Practica 8 Bootstrap</a>
 
 
 Todas las practicas salen negras por el bootswatch que baje :v
