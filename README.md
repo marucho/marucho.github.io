@@ -1,5 +1,8 @@
 Indice
 
+Practica 1 Bootstrap https://marucho.github.io/WEB/Practica1
+
+Practica 2 Bootstrap https://marucho.github.io/WEB/Practica2
 
 Practica 3 Bootstrap https://marucho.github.io/WEB/Practica3
 
@@ -12,3 +15,6 @@ practica 6 Bootstrap https://marucho.github.io/WEB/Practica6
 Practica 7 Bootstrap https://marucho.github.io/WEB/Practica7
 
 Practica 8 Bootstrap https://marucho.github.io/WEB/Practica8
+
+
+Todas las practicas salen negraspor el bootswatch que baje :v
